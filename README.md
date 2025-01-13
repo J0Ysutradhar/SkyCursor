@@ -3,7 +3,6 @@ The Virtual Mouse Using Hand Gestures project enables users to control their com
 ## Virtual Mouse Using Hand Gestures
 
 This Python project leverages computer vision and gesture recognition to control the mouse pointer using hand gestures. The program uses the Mediapipe library to detect hand landmarks and PyAutoGUI to interact with the mouse pointer.
-1
 ## Features
 
 - **Hand Detection**: Detects the position of the hand and fingers in real-time.
